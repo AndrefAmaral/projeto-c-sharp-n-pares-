@@ -1,0 +1,13 @@
+C:\dev\N_Pares\obj\Debug\netcoreapp3.1\N_Pares.csprojAssemblyReference.cache
+C:\dev\N_Pares\obj\Debug\netcoreapp3.1\N_Pares.AssemblyInfoInputs.cache
+C:\dev\N_Pares\obj\Debug\netcoreapp3.1\N_Pares.AssemblyInfo.cs
+C:\dev\N_Pares\obj\Debug\netcoreapp3.1\N_Pares.csproj.CoreCompileInputs.cache
+C:\dev\N_Pares\bin\Debug\netcoreapp3.1\N_Pares.exe
+C:\dev\N_Pares\bin\Debug\netcoreapp3.1\N_Pares.deps.json
+C:\dev\N_Pares\bin\Debug\netcoreapp3.1\N_Pares.runtimeconfig.json
+C:\dev\N_Pares\bin\Debug\netcoreapp3.1\N_Pares.runtimeconfig.dev.json
+C:\dev\N_Pares\bin\Debug\netcoreapp3.1\N_Pares.dll
+C:\dev\N_Pares\bin\Debug\netcoreapp3.1\N_Pares.pdb
+C:\dev\N_Pares\obj\Debug\netcoreapp3.1\N_Pares.dll
+C:\dev\N_Pares\obj\Debug\netcoreapp3.1\N_Pares.pdb
+C:\dev\N_Pares\obj\Debug\netcoreapp3.1\N_Pares.genruntimeconfig.cache
